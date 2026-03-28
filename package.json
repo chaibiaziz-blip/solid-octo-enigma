@@ -1,16 +1,18 @@
 {
   "name": "airtable-custom-interface",
   "version": "1.0.0",
-  "description": "Airtable custom interface built with the Blocks SDK",
+  "description": "Airtable custom interface built with the Interface Extensions SDK",
   "scripts": {
     "start": "block run",
     "build": "block build",
     "release": "block release"
   },
   "dependencies": {
-    "@airtable/blocks": "^1.10.0"
+    "@airtable/blocks": "interface-alpha",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@airtable/blocks-cli": "^2.0.0"
+    "@airtable/blocks-cli": "latest"
   }
 }
