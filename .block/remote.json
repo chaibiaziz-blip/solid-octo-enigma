@@ -1,4 +1,6 @@
 {
-  "blockId": "blkflZ5m6oEn3xlnx",
-  "baseId": "appUSZxfYhiF1eJR8"
+  "default": {
+    "blockId": "blkflZ5m6oEn3xlnx",
+    "baseId": "appUSZxfYhiF1eJR8"
+  }
 }
